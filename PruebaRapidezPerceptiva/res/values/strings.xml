@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prueba Rapidez Perceptiva</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Principal</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="empezar_prueba">Empezar Prueba</string>
+    <string name="salir">Salir</string>
+    <string name="text">Bienvenido a la prueba de Rapidez Perceptiva \n\n\t
+         Esta aplicación es un prueba de rapidez perceptiva. \n\t
+        Se presentará por pantalla una parilla [matriz] de números con tan solo una letra.\n\t
+        Tu tarea consiste en localizar la letra lo más pronto posible y pulsar sobre ella.\n\t
+        Esta tarea se repetirá a lo largo de tantos ensayos como tú decidas al inicio de la prueba.\n\t
+        En cada ensayo irá cambiando la parilla de números, y por supuesto la letra y su posición.\n\t
+        Además al introducir el nº de ensayos, también se pide introducir tu alias.</string>
+	<string name="volver">Ir a la prueba</string>
+	<string name="configuracion">Configurar</string>
+	<string name="empezar">Empezar</string>
+	<string name="alias">Alias identificativo</string>
+	<string name="ensayos">Nº de ensayos </string>
+	<string name="prueba">PRUEBA EN MARCHA </string>
+	
+	
+	<string name="res_prueba">RESULTADOS DE TU PRUEBA</string>
+	<string name="data">Día y hora</string>
+	<string name="log">Valores del Log</string>
+	<string name="email">E-mail destinatario </string>
+    <string name="enviar">Enviar e-mail</string>
+    <string name="repetir">Repetir prueba</string>
+</resources>
