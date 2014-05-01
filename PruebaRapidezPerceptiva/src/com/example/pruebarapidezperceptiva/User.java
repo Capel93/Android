@@ -14,8 +14,8 @@ public class User implements Parcelable{
 	//private boolean finished=false;
 	//private int mData;
 	
-	public User(String userName,int maxIntents){
-		this.userName = userName;
+	public User(String UserName,int maxIntents){
+		this.userName = UserName;
 		this.maxIntents = maxIntents;
 		Date time = new Date();
 		this.init = time.getTime();
@@ -29,7 +29,6 @@ public class User implements Parcelable{
          init = in.readLong();
          fin = in.readLong();
          userName = in.readString();
-         
 
 
     }

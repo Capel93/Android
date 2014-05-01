@@ -10,14 +10,11 @@ import android.content.Intent;
 
 public class ValorLog extends Activity {
 
-	private User user;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-		setContentView(R.layout.resultados);
-		this.user = (User)getIntent().getParcelableExtra("user");
-
+		setContentView(R.layout.log);
 		
 	}
 	

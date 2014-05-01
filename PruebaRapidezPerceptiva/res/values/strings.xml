@@ -28,4 +28,8 @@
 	<string name="email">E-mail destinatario </string>
     <string name="enviar">Enviar e-mail</string>
     <string name="repetir">Repetir prueba</string>
+    <string name="send">Send</string>
+    <string name="save">Save as draft</string>
+    <string name="discard">Discard</string>
+    <string name="data_res"></string>
 </resources>

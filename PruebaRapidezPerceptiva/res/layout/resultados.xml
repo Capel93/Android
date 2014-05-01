@@ -89,6 +89,7 @@
              android:layout_below="@+id/datos_email"
              android:layout_marginTop="30dp"
              android:drawableLeft="@drawable/mail"
+             android:onClick="PasarEnvio"
              android:text="@string/enviar" />
 
          <Button
@@ -97,9 +98,8 @@
              android:layout_height="wrap_content"
              android:layout_below="@+id/button1"
              android:layout_centerHorizontal="true"
-             android:layout_marginTop="15dp"
              android:drawableLeft="@drawable/atras"
-             android:text="@string/repetir"
-             android:onClick="Repetir" />
+             android:onClick="Repetir"
+             android:text="@string/repetir" />
    
 </RelativeLayout>
